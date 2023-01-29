@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOFA</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <style>
+      p{
+        font-family: Poppins ;
+        font-size: x-large;
+      }
+      h1{
+        font-family: Poppins;
+      }
+      
+    </style>
+</head>
+<body>
+    <h1 style="font-size:300%"> Who We Are !</h1>
+    <br>
+    <br>
+    <div class="flex-container" >
+      <div class="flex-item" id="flex-item-1">
+      <p>
+        Our team is made up of ardent marketers, designers, and developers who care about making a positive impact. We work collaboratively with our partners and our clients. We know that hitting these goals is what moves businesses forward and we believe that ‘our client’s success is the best measure of our own performance. 
+        dofa is our passion, and we’re passionate about helping brands to reach their goals. So, when you choose dofa as your creative agency, you won’t get a cookie-cutter strategy — you'll get a custom plan that fits your company, your needs, and your goals.
+      </p>
+      </div>
+      <!-- <div class="flex-item" id="flex-item-2">
+        <h1 id="ABC">We</h1>
+        <h6 class="CDPT">Creative,</h6>
+        <h6 class="CDPT">Do,</h6>
+        <h6 class="CDPT">Plan,</h6>
+        <h6 class="CDPT">Take.</h6>
+      </div> -->
+      <div class="flex-item" id="flex-item-2">
+
+        <img src="df/DOFA PAGE-2_files/cdpt.png" alt="HTML5 Icon" style="width:500%;height:66%;">
+      </div>
+
+    </div>
+</body>
+</html>
